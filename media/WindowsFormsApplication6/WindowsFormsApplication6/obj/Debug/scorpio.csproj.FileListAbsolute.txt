@@ -1,0 +1,55 @@
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.startup.resources
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.plan.resources
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\scorpio.csproj.GenerateResource.Cache
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.signup.resources
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.info.resources
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.homepage.resources
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.view.resources
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\scorpio.csprojResolveAssemblyReference.cache
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.view.resources
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.homepage.resources
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.startup.resources
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.signup.resources
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.info.resources
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.plan.resources
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+Z:\411\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\scorpio.csproj.GenerateResource.Cache
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\scorpio.csprojResolveAssemblyReference.cache
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\scorpio.csprojResolveAssemblyReference.cache
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.view.resources
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.homepage.resources
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.startup.resources
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.signup.resources
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.info.resources
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.plan.resources
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\scorpio.csproj.GenerateResource.Cache
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\scorpio.csproj.ResolveComReference.cache
+C:\Users\baka\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.player_form.resources
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Interop.WMPLib.dll
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\AxInterop.WMPLib.dll
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\scorpio.csproj.ResolveComReference.cache
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Interop.WMPLib.dll
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\AxInterop.WMPLib.dll
+Z:\CSE411 project\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.player_form.resources
